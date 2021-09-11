@@ -1,4 +1,4 @@
 # Portfolio
 My personal portfolio
 
-Hosted at [kinjalkbajpai.netlify.com](kinjalkbajpai.netlify.com)
+Hosted at [kinjalkbajpai.netlify.com](http://www.kinjalkbajpai.netlify.com)
